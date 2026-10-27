@@ -1,0 +1,7 @@
+HÓA LAB THPT — ĐƯA LÊN GITHUB PAGES
+
+Giải nén, đọc README.md. Tải index.html lên ngay thư mục gốc nhánh main của repository.
+Bật Settings → Pages → Deploy from a branch → main → / (root) → Save.
+Đường dẫn website thật sẽ xuất hiện trong Settings → Pages sau khi triển khai xong.
+
+Bản 0.17.1: 27 bài, giữ giao diện cũ. Chọn khối chỉ xổ danh sách; chọn tên bài mới chuyển bài.
